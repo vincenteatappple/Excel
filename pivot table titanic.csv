@@ -1,0 +1,12 @@
+Row Labels,Average of Fare,Count of PassengerId,Sum of PassengerId,,Conclusion 1:  passengers who paid a higher fare had a higher chance of survival
+C,$60,168,18.83%,,Conclusion 2: passengers who embarked from port S had a higher chance of survival 
+0,$35,75,7.74%,,
+1,$80,93,11.09%,,
+Q,$13,77,8.10%,,
+0,$13,47,5.68%,,
+1,$13,30,2.42%,,
+S,$27,644,72.85%,,
+0,$21,427,48.34%,,
+1,$40,217,24.51%,,
+(blank),$80,2,0.22%,,
+Grand Total,$32,891,100.00%,,
